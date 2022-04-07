@@ -30,5 +30,7 @@ highlighted them in our final presentation.
 ### Results
 Major issues that we identified that were common with almost all the airlines were 'seat recline', 'overhead storage, 'engine noise' & 'toilet proximity'.
 
+<img src="https://github.com/AbhinavSingh6295/Airline-Interior-Services-Hackathon/blob/main/Improvement%20Areas.PNG" />
+
 
 
